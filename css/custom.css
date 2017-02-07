@@ -1,0 +1,101 @@
+/*
+ * Title:   Custom Style File
+ * Author:  http://themeforest.net/user/soaptheme 
+ */
+h2 {
+    font-size: 3.6em;
+}
+.heading-box .box-title {
+    font-size: 3.6em;
+    margin-bottom: 90px;
+}
+.tp-caption.medium_grey {
+    text-shadow: 0px 5px 10px rgba(255, 0, 0, 1);
+    background: none;
+}
+#hotel-features article img.custom_amenity {
+  margin-top: 5px;
+  margin-right: 5px;
+  opacity: 0.7; }
+
+#hotel-features article img.custom_amenity:hover {
+  opacity: 1; }
+#contact-call-back .input-group {
+    width: 100%;
+    max-width: 250px;
+    height: 50px;    
+    border-radius: 5px;
+    margin: 0 auto 15px 0;
+    
+}
+.promo-form-wrap.order-call-mod {
+    max-width: 290px;
+    margin: 0 auto;
+}
+.promo-form-wrap.order-call-mod h2,
+.promo-form-wrap.order-call-mod p {
+    text-align: left;
+}
+.promo-form-wrap.order-call-mod h2 {
+    font-size: 32px;
+}
+.promo-form-wrap.order-call-mod p {
+    font-size: 18px;
+    line-height: 1.3;
+    margin-bottom: 50px;
+}
+
+#contact-call-back {
+    text-align: left;
+}
+#contact-call-back .input-group input {
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 20px;
+    background: #EDF6FF;
+}
+#contact-call-back .input-group input:focus{
+    border: none;
+    border: 1px solid #F34942;
+    outline: none;    
+}
+#contact-call-back .btn.form-btn-blue {
+    width: 100%;
+    max-width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    display: block;
+    transition: 0.3s ease-in-out;
+}
+#contact-call-back .btn.form-btn-blue:hover {
+    color: #fff;
+    background: #1b4268;
+    border-color: #1b4268;
+
+}
+.remodal {
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 35px 0 41px 37px;    
+    background: #fff;
+    border-radius: 8px;
+}
+.works-steps h2,
+#patitions .section h2 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 90px;    
+}
+#patitions .section,
+.works-steps,
+.section.more-then-pat {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#patitions .section h2,
+.section.more-then-pat h2 {
+    margin-bottom: 90px;
+}
